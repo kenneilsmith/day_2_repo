@@ -1,1 +1,1 @@
-# day_2_repo
+# second-day-repo
